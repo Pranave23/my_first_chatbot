@@ -1,6 +1,5 @@
-# my_chatbot
-# my_first_chatbot
-# My First Chatbot 🤖
+
+# Chatbot
 
 A simple chatbot built using Python that can interact with users through text-based conversations. This project was created to learn the fundamentals of conversational AI, natural language processing, and Python programming.
 
